@@ -1,0 +1,12 @@
+S.No.,Types of Charges,Amount
+Penal Charges :
+1,Prepayment / Foreclosure Charges,"3% on principal outstanding amount. Nil after 12 EMIs paid. For Business Loans (BIL/BL) <=50 Lakhs i.e. Booked under code ‘UP’, the FC to be considered as “NIL” if first EMI is paid. This is applicable only for Micro and Small enterprises only (subject to URC submission) and not for Medium enterprises."
+2,Cheque /AD/ECS bounce charges,₹. 500/-
+3,Charges for late payment,2% per month on overdue account
+4,SAL OD (Late payment fees),₹.500/-
+Service Charges :
+1,Loan Processing Charges,2.5% of loan amount
+2,Repayment mode swap Charges,₹. 500/-
+3,Loan Cancellation charges,"₹. 3,000 /-"
+4,Sal OD (Processing Fee),"0.99% of limit amount Subject to Min. of ₹. 1,999 /- and Max. of ₹. 2,999 /-"
+5,Sal OD (Annual renewal fees),"₹.1,999 /-"
